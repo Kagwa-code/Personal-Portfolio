@@ -1,0 +1,9 @@
+.copyright-info {
+  display: flex;
+  background-color: rgb(15, 15, 15);
+  color: white;
+  height: 60px;
+  align-items: center;
+  justify-content: center;
+  font-size: 14px;
+}

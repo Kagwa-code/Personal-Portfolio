@@ -1,0 +1,53 @@
+.professional-summary {
+  flex-direction: column;
+  height: 300px;
+  background-color: rgb(241, 241, 241);
+  padding-top: 60px;
+}
+
+
+.about-me {
+  display: flex;
+  justify-content: center;
+  font-size: 25px;
+  font-weight: 700;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.competencies-summary {
+  padding-left: 200px;
+}
+
+.personal-description {
+  width: 430px;
+  padding-top: 30px;
+  margin-right: 25px;
+  margin-bottom: 20px;
+}
+
+.competencies-buttons button {
+  background-color: rgba(13, 157, 180, 0.63);
+  padding: 8px 16px 8px 16px;
+  border: none;
+  border-radius: 15px;
+  color: white;
+  margin-right: 5px;
+}
+
+.learning-container {
+
+}
+
+.learning {
+  padding-top: 60px;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.bullet-points {
+  line-height: 25px;
+}

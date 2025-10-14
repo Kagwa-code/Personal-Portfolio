@@ -1,0 +1,35 @@
+.contact-me {
+  height: 105px;
+  background-color: rgb(56, 55, 55);
+  padding-top: 90px;
+}
+
+.contact-invitation {
+  color: white;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+
+.contacts-personal-info {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  margin: 0 auto;
+  width: 800px;
+}
+
+.icon-details {
+  width: 250px;
+  display: grid;
+  grid-template-columns: 40px 1fr;
+  align-items: center;
+}
+
+.email-icon {
+  height: 20px;
+}
+
+.email {
+  color: white;
+  font-size: 12px;
+}

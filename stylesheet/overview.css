@@ -1,0 +1,48 @@
+.navigation-buttons {
+  display: flex;
+  height: 50px;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(103, 177, 190, 0.63);
+  top: 0;
+  right: 0;
+  left: 0;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-bottom-color: rgb(215, 215, 215);
+  box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.15);
+}
+
+.navigation-buttons a {
+  display: inline-block;
+  padding: 12px 24px;
+  color: black;
+  text-decoration: none; 
+  border-radius: 5px;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+.navigation-buttons a:hover {
+  background-color: white; 
+  cursor: pointer;
+}
+
+.about-button,
+.projects-button,
+.contact-button {
+  margin-right: 20px;
+  border: none;
+  padding: 8px 12px 8px 12px;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+
+.about-button:hover,
+.projects-button:hover,
+.contact-button:hover {
+  background-color: white;
+  
+}
+
