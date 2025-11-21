@@ -7,7 +7,7 @@
   top: 0;
   right: 0;
   left: 0;
-  background-image: url('stylesheet/background-image/web-development3.jpg');
+  background-image: url('stylesheet/header.css/background-image/web-development3.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   padding-bottom: 30px;
@@ -47,5 +47,6 @@
   font-size: 16px;
 
 }
+
 
 
